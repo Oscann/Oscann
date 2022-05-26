@@ -1,6 +1,7 @@
 - Hi, I’m @Oscann
 - New to programmming
 - Currently, a brazilian sophomore
+- REEEAALLYYY unexperienced
 
 <!---
 Oscann/Oscann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
